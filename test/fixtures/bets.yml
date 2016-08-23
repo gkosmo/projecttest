@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  estimation: 1
+  user_id: 
+  score: 1.5
+  justification: MyText
+
+two:
+  estimation: 1
+  user_id: 
+  score: 1.5
+  justification: MyText
